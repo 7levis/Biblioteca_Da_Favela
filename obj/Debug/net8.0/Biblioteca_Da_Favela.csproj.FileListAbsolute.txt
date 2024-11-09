@@ -1,0 +1,4 @@
+/home/levideassis/Biblioteca_Da_Favela/obj/Debug/net8.0/Biblioteca_Da_Favela.GeneratedMSBuildEditorConfig.editorconfig
+/home/levideassis/Biblioteca_Da_Favela/obj/Debug/net8.0/Biblioteca_Da_Favela.AssemblyInfoInputs.cache
+/home/levideassis/Biblioteca_Da_Favela/obj/Debug/net8.0/Biblioteca_Da_Favela.AssemblyInfo.cs
+/home/levideassis/Biblioteca_Da_Favela/obj/Debug/net8.0/Biblioteca_Da_Favela.csproj.CoreCompileInputs.cache
